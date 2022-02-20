@@ -1,0 +1,10 @@
+In an office building there are 4 main floors. Distribution Network
+On the Network and Internet This office is divided into various networks, there are 4 floors
+
+  1st Floor : Customer Service Room, Administration room, Collaborative Area
+              
+  2nd Floor : Free space
+  
+  3rd Floor : Employee Room 1, Employee Room 2, Employee Room 3
+              
+  4th Floor : Admin Room, Server Room
